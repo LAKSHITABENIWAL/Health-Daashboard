@@ -78,6 +78,8 @@ Use filters on the top of each page to explore different segments.
 
 Hover on charts for detailed tooltips and compare hospital-level performance.
 
+![image](https://github.com/user-attachments/assets/d54e73d7-0083-4d18-97bd-ad04e789d85a)
+![image](https://github.com/user-attachments/assets/9def83c4-f671-4409-9b07-7879833ca7a0)
 ![image](https://github.com/user-attachments/assets/920cbdbf-5e5b-4904-8102-11ccd8cf2a78)
 
 
